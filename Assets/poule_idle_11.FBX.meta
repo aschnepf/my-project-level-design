@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 726515d96ccc63a41bf6d7113663dc4a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: aile D002
+    100002: aile G002
+    100004: B aile G002
+    100006: B aileD002
+    100008: B corps002
+    100010: B Jambe D002
+    100012: B Jambe G002
+    100014: B nez
+    100016: Bone001
+    100018: Bone002
+    100020: Bone003
+    100022: Bone004
+    100024: corps002
+    100026: crete018
+    100028: crete019
+    100030: crete020
+    100032: crete021
+    100034: crete022
+    100036: crete023
+    100038: crete024
+    100040: crete025
+    100042: nez002
+    100044: oeilG002
+    100046: orilD002
+    100048: pied droit 1/005
+    100050: pied droit 2/005
+    100052: pied droit 3/005
+    100054: pied gauche 1/005
+    100056: pied gauche 2/004
+    100058: pied gauche 3/005
+    100060: //RootNode
+    400000: aile D002
+    400002: aile G002
+    400004: B aile G002
+    400006: B aileD002
+    400008: B corps002
+    400010: B Jambe D002
+    400012: B Jambe G002
+    400014: B nez
+    400016: Bone001
+    400018: Bone002
+    400020: Bone003
+    400022: Bone004
+    400024: corps002
+    400026: crete018
+    400028: crete019
+    400030: crete020
+    400032: crete021
+    400034: crete022
+    400036: crete023
+    400038: crete024
+    400040: crete025
+    400042: nez002
+    400044: oeilG002
+    400046: orilD002
+    400048: pied droit 1/005
+    400050: pied droit 2/005
+    400052: pied droit 3/005
+    400054: pied gauche 1/005
+    400056: pied gauche 2/004
+    400058: pied gauche 3/005
+    400060: //RootNode
+    4300000: pied gauche 1/005
+    4300002: pied gauche 3/005
+    4300004: pied gauche 2/004
+    4300006: pied droit 1/005
+    4300008: pied droit 3/005
+    4300010: pied droit 2/005
+    4300012: corps002
+    4300014: orilD002
+    4300016: oeilG002
+    4300018: nez002
+    4300020: crete018
+    4300022: crete019
+    4300024: crete020
+    4300026: crete021
+    4300028: crete022
+    4300030: crete023
+    4300032: crete024
+    4300034: crete025
+    4300036: aile G002
+    4300038: aile D002
+    7400000: poulet_11
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: aile D002
+    13700002: aile G002
+    13700004: corps002
+    13700006: crete018
+    13700008: crete019
+    13700010: crete020
+    13700012: crete021
+    13700014: crete022
+    13700016: crete023
+    13700018: crete024
+    13700020: crete025
+    13700022: nez002
+    13700024: oeilG002
+    13700026: orilD002
+    13700028: pied droit 1/005
+    13700030: pied droit 2/005
+    13700032: pied droit 3/005
+    13700034: pied gauche 1/005
+    13700036: pied gauche 2/004
+    13700038: pied gauche 3/005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: poulet_11
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aile D002
+        weight: 1
+      - path: aile G002
+        weight: 1
+      - path: B aile G002
+        weight: 1
+      - path: B aileD002
+        weight: 1
+      - path: B corps002
+        weight: 1
+      - path: B Jambe D002
+        weight: 1
+      - path: B Jambe G002
+        weight: 1
+      - path: B nez
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone001/Bone002
+        weight: 1
+      - path: Bone003
+        weight: 1
+      - path: Bone003/Bone004
+        weight: 1
+      - path: corps002
+        weight: 1
+      - path: corps002/crete018
+        weight: 1
+      - path: corps002/crete019
+        weight: 1
+      - path: corps002/crete020
+        weight: 1
+      - path: corps002/crete021
+        weight: 1
+      - path: corps002/crete022
+        weight: 1
+      - path: corps002/crete023
+        weight: 1
+      - path: corps002/crete024
+        weight: 1
+      - path: corps002/crete025
+        weight: 1
+      - path: corps002/nez002
+        weight: 1
+      - path: corps002/oeilG002
+        weight: 1
+      - path: corps002/orilD002
+        weight: 1
+      - path: pied droit 1/005
+        weight: 1
+      - path: pied droit 1/005/pied droit 2/005
+        weight: 1
+      - path: pied droit 1/005/pied droit 3/005
+        weight: 1
+      - path: pied gauche 1/005
+        weight: 1
+      - path: pied gauche 1/005/pied gauche 2/004
+        weight: 1
+      - path: pied gauche 1/005/pied gauche 3/005
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
