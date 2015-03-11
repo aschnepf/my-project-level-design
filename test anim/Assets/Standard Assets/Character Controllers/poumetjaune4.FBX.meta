@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: c2a6b71c3f4994147b8dd75266de0871
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: aile D
+    100002: aile G
+    100004: Bone001
+    100006: Bone003
+    100008: Bone004
+    100010: Bone005
+    100012: Bone006
+    100014: corps
+    100016: jambe D
+    100018: jambe D001
+    100020: nez
+    100022: oeil D
+    100024: oeil G
+    100026: paupiere D
+    100028: paupiere G
+    100030: //RootNode
+    400000: aile D
+    400002: aile G
+    400004: Bone001
+    400006: Bone003
+    400008: Bone004
+    400010: Bone005
+    400012: Bone006
+    400014: corps
+    400016: jambe D
+    400018: jambe D001
+    400020: nez
+    400022: oeil D
+    400024: oeil G
+    400026: paupiere D
+    400028: paupiere G
+    400030: //RootNode
+    4300000: paupiere G
+    4300002: paupiere D
+    4300004: oeil G
+    4300006: oeil D
+    4300008: nez
+    4300010: jambe D001
+    4300012: jambe D
+    4300014: corps
+    4300016: aile G
+    4300018: aile D
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: aile D
+    13700002: aile G
+    13700004: corps
+    13700006: jambe D
+    13700008: jambe D001
+    13700010: nez
+    13700012: oeil D
+    13700014: oeil G
+    13700016: paupiere D
+    13700018: paupiere G
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aile D
+        weight: 1
+      - path: aile G
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone003
+        weight: 1
+      - path: Bone004
+        weight: 1
+      - path: Bone005
+        weight: 1
+      - path: Bone006
+        weight: 1
+      - path: corps
+        weight: 1
+      - path: jambe D
+        weight: 1
+      - path: jambe D001
+        weight: 1
+      - path: nez
+        weight: 1
+      - path: oeil D
+        weight: 1
+      - path: oeil G
+        weight: 1
+      - path: paupiere D
+        weight: 1
+      - path: paupiere G
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

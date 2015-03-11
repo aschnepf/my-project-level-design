@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: ab8a1502e2d68be4688fbfdf4043dec0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: aile D
+    100002: aile G
+    100004: B aile G
+    100006: B aileD
+    100008: B corps
+    100010: B Jambe D
+    100012: B Jambe G
+    100014: corps
+    100016: crete1
+    100018: crete2
+    100020: crete3
+    100022: crete4
+    100024: crete6
+    100026: crete7
+    100028: crete8
+    100030: crete9
+    100032: nez
+    100034: oeilG
+    100036: orilD
+    100038: pied droit 1/3
+    100040: pied droit 2/3
+    100042: pied droit 3/3
+    100044: pied gauche 1/3
+    100046: pied gauche 2/2
+    100048: pied gauche 3/3
+    100050: //RootNode
+    400000: aile D
+    400002: aile G
+    400004: B aile G
+    400006: B aileD
+    400008: B corps
+    400010: B Jambe D
+    400012: B Jambe G
+    400014: corps
+    400016: crete1
+    400018: crete2
+    400020: crete3
+    400022: crete4
+    400024: crete6
+    400026: crete7
+    400028: crete8
+    400030: crete9
+    400032: nez
+    400034: oeilG
+    400036: orilD
+    400038: pied droit 1/3
+    400040: pied droit 2/3
+    400042: pied droit 3/3
+    400044: pied gauche 1/3
+    400046: pied gauche 2/2
+    400048: pied gauche 3/3
+    400050: //RootNode
+    4300000: pied gauche 1/3
+    4300002: pied gauche 2/2
+    4300004: pied gauche 3/3
+    4300006: pied droit 1/3
+    4300008: pied droit 3/3
+    4300010: pied droit 2/3
+    4300012: corps
+    4300014: orilD
+    4300016: oeilG
+    4300018: nez
+    4300020: crete9
+    4300022: crete8
+    4300024: crete7
+    4300026: crete6
+    4300028: crete4
+    4300030: crete3
+    4300032: crete2
+    4300034: crete1
+    4300036: aile G
+    4300038: aile D
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: aile D
+    13700002: aile G
+    13700004: corps
+    13700006: crete1
+    13700008: crete2
+    13700010: crete3
+    13700012: crete4
+    13700014: crete6
+    13700016: crete7
+    13700018: crete8
+    13700020: crete9
+    13700022: nez
+    13700024: oeilG
+    13700026: orilD
+    13700028: pied droit 1/3
+    13700030: pied droit 2/3
+    13700032: pied droit 3/3
+    13700034: pied gauche 1/3
+    13700036: pied gauche 2/2
+    13700038: pied gauche 3/3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
